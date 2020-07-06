@@ -1,2 +1,2 @@
 # Firefox Theme by vertiKarl
-![](https://imgur.com/gVTqD9v)
+![](https://i.imgur.com/gVTqD9v.png)
