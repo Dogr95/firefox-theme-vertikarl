@@ -1,0 +1,37 @@
+#nav-bar {
+  background-color: #030e19 !important;
+}
+.browser-toolbar {
+  background-color: #030e19 !important;
+}
+#navigator-toolbox {
+  border-bottom: 0px solid var(--chrome-content-separator-color) !important;
+  --tabs-border-color: #39ced0 !important;
+}
+#tabbrowser-tabs {
+  --tab-line-color: #39ced0 !important;
+}
+#back-button, #forward-button, #reload-button {
+  display: none !important;
+}
+#tabbrowser-arrowscrollbox {
+  background-color: #030e19 !important;
+}
+#urlbar-background, #searchbar {
+    background-color: #030e19 !important;
+    border: none !important;
+}
+
+.urlbar-input-box, #identity-box {
+  color: #39ced0 !important;
+}
+
+:root {
+  --toolbar-bgcolor: #030e19 !important;
+  --toolbar-bgimage: none !important;
+  --toolbar-color: #39ced0 !important;
+  --lwt-accent-color: #39ced0 !important;
+  --urlbar-separator-color:  #39ced0 !important;
+  --toolbarbutton-hover-background: #051c33 !important;
+  --toolbarbutton-active-background: #082d53 !important;
+}
